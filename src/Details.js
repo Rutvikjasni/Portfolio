@@ -22,7 +22,7 @@ import typescript from "./assets/techstack/Typescript_logo_2020.png";
 import nextJs from "./assets/techstack/nextjs.png";
 import MUI from "./assets/techstack/Mui.png";
 // Porject Images
-import projectImage1 from "./assets/projects/project1.jpg";
+import projectImage1 from "./assets/projecgit ts/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
 import projectImage3 from "./assets/projects/project3.jpg";
 import projectImage4 from "./assets/projects/project4.jpg";
@@ -38,7 +38,7 @@ export const logos = {
 // Enter your Personal Details here
 export const personalDetails = {
   name: "Rutvik Jasani",
-  tagline: "passionate Front-End Devloper",
+  tagline: "passionate Front-End Developer",
   img: profile,
   about: `I'm Frontend Web Developer,equiped with an experience of two years and a potent skill set, proficient in Next.js, React.js, JavaScript, TypeScript, Tailwind CSS, Bootstrap, Material-UI (MUI), Redux Toolkit (RTK),  HTML, and CSS.  I specialize in creating stunning and responsive web applications. With a keen eye for design and cutting-edge technology, I can transform concepts into polished, high-performance digital experiences. Let me bring your web projects to life with my expertise and flair..`,
 };
