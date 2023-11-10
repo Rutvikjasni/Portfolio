@@ -1,6 +1,5 @@
 # React Developer Portfolio template
-#### Live Demo https://react-portfolio-v1.netlify.app/
-#### Figma Design https://www.figma.com/community/file/1116246660507537002
+#### Live Demo https://rutvikdeveloperportfolio.netlify.app/
 ### Preview ( Dark Mode )
 
 <img src="/preview.gif" alt="preview" width="600px" />
@@ -14,12 +13,10 @@
 ```javascript
 / Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
-  tagline: "I build things for web",
+  name: "Rutvik Jasani",
+  tagline: "passionate Front-End Developer",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-  when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `I'm Frontend Web Developer,equiped with an experience of two years and a potent skill set, proficient in Next.js, React.js, JavaScript, TypeScript, Tailwind CSS, Bootstrap, Material-UI (MUI), Redux Toolkit (RTK),  HTML, and CSS.  I specialize in creating stunning and responsive web applications. With a keen eye for design and cutting-edge technology, I can transform concepts into polished, high-performance digital experiences. Let me bring your web projects to life with my expertise and flair..`,
 };
 
 // Enter your Social Media URLs here
@@ -34,22 +31,71 @@ export const socialMediaUrl = {
 export const workDetails = [
   {
     Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Company: `PropVIVO`,
+    Location: "Surat",
     Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
-  }
+    Duration: "Jul 2023 - Present",
+  },
+  {
+    Position: "Frontend Web Developer",
+    Company: `Flex Team`,
+    Location: "Surat",
+    Type: "Full Time",
+    Duration: "Aug 2022 - Jun 2023",
+  },
+  {
+    Position: "Internship",
+    Company: `Flex Team`,
+    Location: "Surat",
+    Type: "Internship",
+    Duration: "May 2022 - Jul 2022",
+  },
 ];
 
 // Enter your Education Details here
-export const eduDetails = { ... };
+export const eduDetails = [
+  {
+    Position: "Master of Computer Application`",
+    Company: "Jain (Deemed-to-be University)",
+    Location: "Distant",
+    Type: "Full Time",
+    Duration: "Jan 2022 - Present",
+  },
+  {
+    Position: "Bachelor of Computer Applications",
+    Company: `C. B. PATEL COMPUTER COLLEGE`,
+    Location: "Surat",
+    Type: "Full Time",
+    Duration: "Aug 2019 - 2022",
+  },
+];
 
 // Tech Stack and Tools
-export const techStackDetails = { ... };
+export const techStackDetails = {
+  html: html,
+  css: css,
+  js: js,
+  react: react,
+  redux: redux,
+  typescript: typescript,
+  nextJs: nextJs,
+  MUI:MUI,
+  tailwind: tailwind,
+  bootstrap: bootstrap,
+  vscode: vscode,
+  postman: postman,
+  npm: npm,
+  git: git,
+  github: github,
+  figma: figma,
+};
 
 // Enter your Project Details here
 export const projectDetails = [ ... ];
 
 // Enter your Contact Details here
-export const contactDetails = { ... };
+export const contactDetails = {
+  email: "ritikjasani119@gmail.com",
+  phone: "+91 87358 00946",
+};
 ```
