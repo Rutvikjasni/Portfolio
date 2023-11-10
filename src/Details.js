@@ -22,7 +22,7 @@ import typescript from "./assets/techstack/Typescript_logo_2020.png";
 import nextJs from "./assets/techstack/nextjs.png";
 import MUI from "./assets/techstack/Mui.png";
 // Porject Images
-import projectImage1 from "./assets/projecgit ts/project1.jpg";
+import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
 import projectImage3 from "./assets/projects/project3.jpg";
 import projectImage4 from "./assets/projects/project4.jpg";
