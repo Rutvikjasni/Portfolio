@@ -25,3 +25,12 @@ body {
 body::-webkit-scrollbar {
   display: none;
 }
+
+.active {
+  /* Add your styling for the active tab */
+  background: linear-gradient(to right, #00bfff, #800080, #ff69b4);
+  -webkit-background-clip: text; 
+  color: transparent; /* Set text color to transparent */
+  font-weight: bold;
+  
+}
