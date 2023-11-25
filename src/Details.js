@@ -1,9 +1,9 @@
 // Enter all your detials in this file
 // Logo images
-import logogradient from "./assets/techstack/COMLogo.jpg";
+import logogradient from "./assets/ComLogo.jpg";
 import logo from "./assets/logo2.svg";
 // Profile Image
-import profile from "./assets/profile.jpg";
+import profile from "./assets/Developer.jpg";
 // Tech stack images
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
@@ -45,10 +45,11 @@ export const personalDetails = {
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  twitter: "https://x.com/RutvikJasani12?t=sWL4zT82tc34k9vzYmgxew&s=09",
+  github: "https://github.com/Rutvikjasni",
+  linkdein: "https://www.linkedin.com/in/rutvik-jasani-8b0404239?",
+  
+  // instagram: "https://www.instagram.com/",
 };
 
 // Enter your Work Experience here
