@@ -1,7 +1,7 @@
 // Enter all your detials in this file
 // Logo images
 import logogradient from "./assets/ComLogo.jpg";
-import logo from "./assets/logo2.svg";
+import logo from "./assets/ComLogo.jpg";
 // Profile Image
 import profile from "./assets/Developer.jpg";
 // Tech stack images
